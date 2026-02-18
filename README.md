@@ -52,3 +52,11 @@ To eliminate the need to save temporary contacts just to send a message, improvi
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+Developed by Ronaldo de Castro Del-Fiaco
+
+GitHub: https://github.com/ronaldodelfiaco
